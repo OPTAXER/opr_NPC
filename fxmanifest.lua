@@ -1,7 +1,7 @@
 fx_version 'adamant'
 
 author 'OPR'
-description 'OPR NPC SCRIPT'
+description 'Configurable NPC's Script'
 
 client_script {
     'npc_client.lua',
