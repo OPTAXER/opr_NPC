@@ -1,4 +1,4 @@
---MWONE DON'T TOUCH IF YOU DON'T WHAT YOU'RE DOING!
+--Mwone Don't Touch If You Don't Know What You're Doing!---
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(0)
